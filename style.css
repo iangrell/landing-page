@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+
+header{
+    background-color: gray;
+    padding: .5em;
+    justify-content: center;
+}
+
+footer{
+    background-color: gray;
+    padding: .25em;
+}
+
+div{
+    
+}
+
+.waterfall-img{
+    height: 400px;
+    width: auto;
+    padding: .5em;
+    border-radius: 5px;
+}
+
+.block-card{
+    height: 30px;
+    width: auto;
+    background-color: rgb(225, 166, 58);
+    box-shadow: 3px rgba(0, 0, 0, 0.468);
+}
+
+.heading{
+    background-color: rgb(209, 209, 209);
+    border: 2px black;
+}
+
+
+
+
+
+/* UTILS */
+
+.d-flex{
+    display: flex;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-end{
+    justify-content: end;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.row{
+    min-height: 30vh;
+}
+
+.p-2{
+    padding: 2em;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+
